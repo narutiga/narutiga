@@ -6,8 +6,8 @@ I’m diligently studying every day to pursue a career change into software engi
 If you find my profile even slightly interesting, please feel free to reach out! I'd love to connect and learn from you.
 
 ![](https://komarev.com/ghpvc/?username=narutiga&color=ff69b4)
-![](https://img.shields.io/badge/Zenn-17Likes-lightgrey?style=flat&logo=Zenn)
-![](https://img.shields.io/badge/Twitter-80-lightgrey?style=flat&logo=Twitter)
+![](https://img.shields.io/badge/Zenn-19Likes-lightgrey?style=flat&logo=Zenn)
+![](https://img.shields.io/badge/Twitter-84-lightgrey?style=flat&logo=Twitter)
 
 <a href="https://github.com/narutiga">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=narutiga&count_private=true&show_icons=true&theme=dracula" />
