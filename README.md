@@ -1,7 +1,7 @@
 # Hi there! I'm Kino🐾
 
-I am a freelance engineer!
-I use Next.js, Express and Flutter.
+I am an engineer!
+I use Next.js, Express, Flutter and Rails.
 
 If you find my profile even slightly interesting, please feel free to reach out! I'd love to connect and learn from you.
 
