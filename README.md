@@ -1,4 +1,4 @@
-# Hi there! I'm Kino🐾
+# Hi there! I'm kino🐾
 
 I am an engineer!
 I use Next.js, Express, Flutter and Rails.
