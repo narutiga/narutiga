@@ -1,17 +1,17 @@
-# Hi there! I'm kino🐾
+<h2 align="center">Hi, I'm kino 🐾</h2>
 
-I am an engineer!
-I use Next.js, Express, Flutter and Rails.
+<p align="center">
+  Software engineer building web and mobile apps.<br />
+  Calm, curious, and always learning new things.
+</p>
 
-If you find my profile even slightly interesting, please feel free to reach out! I'd love to connect and learn from you.
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-93C5FD?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-FCA5A5?style=flat&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-7DD3FC?style=flat&logo=dart&logoColor=white" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=narutiga&color=ff69b4)
-![](https://img.shields.io/badge/Zenn-19Likes-lightgrey?style=flat&logo=Zenn)
-![](https://img.shields.io/badge/Twitter-84-lightgrey?style=flat&logo=Twitter)
-
-<a href="https://github.com/narutiga">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=narutiga&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/narutiga">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narutiga&layout=compact&theme=dracula" />
-</a>
+<p align="center">
+  If you find my profile interesting,<br />
+  feel free to reach out — I'd love to connect and learn from you.
+</p>
