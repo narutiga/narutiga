@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm kino 🐾</h2>
+<h2 align="center">Hi, I'm iku 🐾</h2>
 
 <p align="center">
   Software engineer building web and mobile apps.<br />
